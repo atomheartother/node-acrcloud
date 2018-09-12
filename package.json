@@ -1,6 +1,6 @@
 {
   "name": "node-acrcloud",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A node wrapper for the ACRCloud web API",
   "main": "index.js",
   "scripts": {
