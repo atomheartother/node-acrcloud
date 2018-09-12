@@ -1,0 +1,27 @@
+{
+  "name": "node-acrcloud",
+  "version": "0.0.1",
+  "description": "A node wrapper for the ACRCloud web API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atomheartother/node-acrcloud.git"
+  },
+  "keywords": [
+    "acrcloud"
+  ],
+  "author": "thomas@blackfoot.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atomheartother/node-acrcloud/issues"
+  },
+  "homepage": "https://github.com/atomheartother/node-acrcloud#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "form-data": "^2.3.2",
+    "node-fetch": "^2.2.0"
+  }
+}
